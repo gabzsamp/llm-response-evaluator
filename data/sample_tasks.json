@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t01",
+    "language": "en",
+    "prompt": "Explain in exactly two sentences why the sky is blue.",
+    "response_a": "The sky looks blue because air molecules scatter short (blue) wavelengths of sunlight much more than long (red) ones. This scattered blue light reaches our eyes from every direction.",
+    "response_b": "The sky is blue because of the way light works. Light comes from the sun and goes through the atmosphere. There are many colors in light. Blue is one of them. That is why we see blue."
+  },
+  {
+    "id": "t02",
+    "language": "pt",
+    "prompt": "Liste três dicas para economizar energia elétrica em casa. Use uma lista com marcadores.",
+    "response_a": "Economizar energia é importante para o meio ambiente e para o bolso. Muitas famílias não percebem quanto gastam com aparelhos ligados sem necessidade.",
+    "response_b": "- Desligue aparelhos da tomada quando não estiverem em uso.\n- Troque lâmpadas comuns por lâmpadas de LED.\n- Evite banhos muito longos com chuveiro elétrico."
+  },
+  {
+    "id": "t03",
+    "language": "en",
+    "prompt": "What is the capital of Australia?",
+    "response_a": "The capital of Australia is Sydney, its largest and most famous city.",
+    "response_b": "The capital of Australia is Canberra. Sydney is the largest city, but it is not the capital."
+  },
+  {
+    "id": "t04",
+    "language": "pt",
+    "prompt": "Resuma em uma frase: 'A fotossíntese é o processo pelo qual plantas usam luz solar, água e gás carbônico para produzir glicose e liberar oxigênio.'",
+    "response_a": "Na fotossíntese, as plantas transformam luz, água e gás carbônico em glicose e liberam oxigênio.",
+    "response_b": "A fotossíntese é um processo biológico muito importante que acontece nas plantas e também em algumas algas e bactérias, e que ocorre nos cloroplastos, dentro das células, graças à clorofila."
+  },
+  {
+    "id": "t05",
+    "language": "en",
+    "prompt": "Write a polite email declining a meeting invitation. Keep it under 50 words.",
+    "response_a": "Hi Sam, thank you for the invitation. Unfortunately I have a conflict at that time and can't attend. Could you share the notes afterwards? Thanks again, and best wishes for the meeting.",
+    "response_b": "Dear Sam, I hope this message finds you well. I am writing to inform you that, owing to several prior commitments that unfortunately overlap with the proposed time, I will regrettably not be able to attend the meeting you kindly organized. Please accept my sincere apologies and let me know if there is anything else I can do to help."
+  }
+]
